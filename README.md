@@ -1,48 +1,56 @@
-Repository Data Science 2026
-Identitas Mahasiswa
+# Repository Data Science 2026
 
-Nama: Krisno Hasmilu Hutabarat
-NIM: 240401010102
-Kelas: IF401
-Program Studi: PJJ Informatika
+## Identitas Mahasiswa
+
+Nama: Krisno Hasmilu Hutabarat  
+NIM: 240401010102  
+Kelas: IF401  
+Program Studi: PJJ Informatika  
 Mata Kuliah: Data Science
 
-Deskripsi Repository
+## Deskripsi Repository
 
 Repository ini berisi kumpulan notebook hasil aktivitas hands-on/praktikum mata kuliah Data Science dari Pertemuan 1 sampai Pertemuan 13. Repository ini dibuat sebagai bagian dari Ujian Tengah Semester (UTS) dan dilanjutkan untuk pengumpulan Tugas Akhir Semester Genap Tahun Ajaran 2025/2026.
 
 Melalui repository ini, saya mendokumentasikan proses belajar Data Science mulai dari pengenalan Python, pengolahan data, analisis data, visualisasi data, preprocessing, penerapan algoritma klasifikasi dan ensemble, unsupervised learning (clustering), asosiasi data dan sistem rekomendasi dasar, hingga pengantar deep learning dan NLP dasar.
 
-Daftar Pertemuan
-Pertemuan	Topik	Link Notebook
-Pertemuan 1	Pengenalan Data Science dan Python	Notebook Pertemuan 1
-Pertemuan 2	Dasar Python untuk Data Science	Notebook Pertemuan 2
-Pertemuan 3	Pengolahan Data dengan Pandas	Notebook Pertemuan 3
-Pertemuan 4	Analisis dan Visualisasi Data	Notebook Pertemuan 4
-Pertemuan 5	Eksplorasi Data	Notebook Pertemuan 5
-Pertemuan 6	Data Preprocessing	Notebook Pertemuan 6
-Pertemuan 7	Implementasi Data Science	Notebook Pertemuan 7
-Pertemuan 9	Algoritma Klasifikasi (Bagian 1): Logistic Regression, Decision Tree, Confusion Matrix, Accuracy, Precision, Recall, F1-Score	Notebook Pertemuan 9
-Pertemuan 10	Algoritma Klasifikasi (Bagian 2): Random Forest (Ensemble) dan Penanganan Imbalanced Dataset — termasuk Customer Churn Prediction	Notebook Pertemuan 10
-Pertemuan 11	Unsupervised Learning (Clustering): K-Means, Hierarchical Clustering, dan Metode Elbow	Notebook Pertemuan 11
-Pertemuan 12	Asosiasi Data & Sistem Rekomendasi Dasar: Algoritma Apriori (Market Basket Analysis), Collaborative/Content-Based Filtering	Notebook Pertemuan 12
-Pertemuan 13	Pengantar Deep Learning & NLP Dasar: konsep Artificial Neural Network, TF-IDF untuk analisis sentimen	Notebook Pertemuan 13
-Tools dan Library
-Python
-Jupyter Notebook / Google Colab
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
-MLxtend (Apriori / Market Basket Analysis)
-Cara Menjalankan Notebook
-Buka repository ini di GitHub.
-Pilih salah satu file notebook .ipynb.
-Jalankan melalui Jupyter Notebook atau Google Colab.
-Jalankan notebook dari sel pertama sampai sel terakhir (Kernel → Restart & Run All).
-Pastikan seluruh output muncul tanpa error.
-Kesimpulan
+## Daftar Pertemuan
+
+| Pertemuan    | Topik                                                                                   | Link Notebook                                                                                                             |
+| ------------ | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Pertemuan 1  | Pengenalan Data Science dan Python                                                      | [Notebook Pertemuan 1](https://github.com/krisnohtb/data-science-2026/blob/main/Pertemuan1_Krisno_Hasmilu_Hutabarat_240401010102.ipynb)  |
+| Pertemuan 2  | Dasar Python untuk Data Science                                                         | [Notebook Pertemuan 2](https://github.com/krisnohtb/data-science-2026/blob/main/Pertemuan2_KrisnoHasmiluHutabarat_240401010102.ipynb)    |
+| Pertemuan 3  | Pengolahan Data dengan Pandas                                                           | [Notebook Pertemuan 3](https://github.com/krisnohtb/data-science-2026/blob/main/Pertemuan3_Krisno_Hasmilu_Hutabarat_240401010102.ipynb)  |
+| Pertemuan 4  | Analisis dan Visualisasi Data                                                           | [Notebook Pertemuan 4](https://github.com/krisnohtb/data-science-2026/blob/main/Pertemuan4_Krisno_Hasmilu_Hutabarat_240401010102.ipynb)  |
+| Pertemuan 5  | Eksplorasi Data                                                                         | [Notebook Pertemuan 5](https://github.com/krisnohtb/data-science-2026/blob/main/Pertemuan5_Krisno_Hasmilu_Hutabarat_240401010102.ipynb)  |
+| Pertemuan 6  | Data Preprocessing                                                                      | [Notebook Pertemuan 6](https://github.com/krisnohtb/data-science-2026/blob/main/Pertemuan6_Krisno_Hasmilu_Hutabarat_240401010102.ipynb)  |
+| Pertemuan 7  | Implementasi Data Science                                                               | [Notebook Pertemuan 7](https://github.com/krisnohtb/data-science-2026/blob/main/Pertemuan7_Krisno_Hasmilu_Hutabarat_240401010102.ipynb)  |
+| Pertemuan 9  | Algoritma Klasifikasi (Bagian 1): Logistic Regression, Decision Tree, Confusion Matrix, Accuracy, Precision, Recall, F1-Score | [Notebook Pertemuan 9](https://github.com/krisnohtb/data-science-2026/blob/main/Pertemuan9_Krisno_Hasmilu_Hutabarat_240401010102.ipynb) |
+| Pertemuan 10 | Algoritma Klasifikasi (Bagian 2): Random Forest (Ensemble) dan Penanganan Imbalanced Dataset — termasuk Customer Churn Prediction | [Notebook Pertemuan 10](https://github.com/krisnohtb/data-science-2026/blob/main/Pertemuan10_Krisno_Hasmilu_Hutabarat_240401010102.ipynb) |
+| Pertemuan 11 | Unsupervised Learning (Clustering): K-Means, Hierarchical Clustering, dan Metode Elbow  | [Notebook Pertemuan 11](https://github.com/krisnohtb/data-science-2026/blob/main/Pertemuan11_Krisno_Hasmilu_Hutabarat_240401010102.ipynb) |
+| Pertemuan 12 | Asosiasi Data & Sistem Rekomendasi Dasar: Algoritma Apriori (Market Basket Analysis), Collaborative/Content-Based Filtering | [Notebook Pertemuan 12](https://github.com/krisnohtb/data-science-2026/blob/main/Pertemuan12_Krisno_Hasmilu_Hutabarat_240401010102.ipynb) |
+| Pertemuan 13 | Pengantar Deep Learning & NLP Dasar: konsep Artificial Neural Network, TF-IDF untuk analisis sentimen | [Notebook Pertemuan 13](https://github.com/krisnohtb/data-science-2026/blob/main/Pertemuan13_Krisno_Hasmilu_Hutabarat_240401010102.ipynb) |
+
+## Tools dan Library
+
+- Python
+- Jupyter Notebook / Google Colab
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- MLxtend (Apriori / Market Basket Analysis)
+
+## Cara Menjalankan Notebook
+
+1. Buka repository ini di GitHub.
+2. Pilih salah satu file notebook `.ipynb`.
+3. Jalankan melalui Jupyter Notebook atau Google Colab.
+4. Jalankan notebook dari sel pertama sampai sel terakhir (Kernel → Restart & Run All).
+5. Pastikan seluruh output muncul tanpa error.
+
+## Kesimpulan
 
 Selama Pertemuan 1 sampai Pertemuan 13, saya mempelajari perjalanan Data Science secara menyeluruh: dimulai dari dasar-dasar Python, pengolahan data dengan Pandas, analisis dan visualisasi data, eksplorasi data, hingga data preprocessing (Pertemuan 1–7). Pada tahap selanjutnya, saya mempelajari penerapan algoritma supervised learning untuk klasifikasi, yaitu Logistic Regression dan Decision Tree, dilengkapi evaluasi model menggunakan Confusion Matrix, Accuracy, Precision, Recall, dan F1-Score (Pertemuan 9). Saya juga mempelajari metode ensemble melalui Random Forest serta cara menangani dataset yang imbalanced, dengan studi kasus Customer Churn Prediction, di mana saya memahami bahwa Accuracy saja tidak cukup untuk menilai model pada kasus imbalanced dan metrik seperti Precision, Recall, serta F1-Score menjadi lebih relevan (Pertemuan 10).
 
